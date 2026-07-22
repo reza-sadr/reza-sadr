@@ -1,18 +1,18 @@
 ```
                                                       reza@reza-sadr.com
                    ..:::::::..                        -------------------
-              .::::----:::::::::::.                   OS:             Senior Frontend Engineer
+              .::::----:::::::::::.                   OS:             Senior Software Engineer
             :--::::::--:::::::::::::.                 Host:           Reza Sadr
           .-::::::::-----------::::::::               Kernel:         Full-Stack JavaScript Developer
          :-::::::::---------------::::::.             Uptime:         10+ years
         :-:::-------------------------:::.            Location:       Toronto, Ontario, Canada
        .-:::---------==============-----:-.
-       ------------==----===--=======------           Shell:          TypeScript / JavaScript
+       ------------==----===--=======------           Languages:      TypeScript / JavaScript
        =-----------------------======-----=.          Frameworks:     React / Next.js / React Native / Expo
        =-----=+++++++++======++****++++==-=.          Runtime:        Node.js / Express.js
        =---==+*###@@###*++=+*#@@@@@####+===.          Architecture:   Micro-frontends / PWA / BFF
-      :----=*#**##@@@@##+==*@@@@@@###*#*=---.         State:          Redux / TanStack Query / Immer
-      ==---=++***#@###*+=--=+*#######*++=--+.         Data:           GraphQL / REST / Zod
+      :----=*#**##@@@@##+==*@@@@@@###*#*=---.         State:          Redux / TanStack Query / Immer / Zustand
+      ==---=++***#@###*+=--=+*#######*++=--+.         Data:           GraphQL / REST / Zod / Prisma
       --------==++++++=-:::-==++++++===-----          UI:             Tailwind / Sass / CSS Modules
       .=--::::::--==--:::::::--===--------=-          Testing:        Jest / Vitest / RTL / Playwright
        ---::::::---------:-===-=-----------:          Build:          Vite / Webpack / Docker / Git
